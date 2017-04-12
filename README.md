@@ -27,7 +27,7 @@ Copyright 2017 themefisher.com  .Code released under [the MIT license](https://g
 Vex is an MIT licensed open source project and completely free to use. However, the amount of effort needed to maintain and develop new features for the project is not sustainable without proper financial backing. You can support development by buying one of our [premium templates](https://themefisher.com/premium-templates/).
 
 
-### Check out our Bootstrap Admin Templates and support CoreUI Development
+### Check out our Bootstrap & HTML5 Templates.
 Checkout More FREE Bootstrap templates from our store <a href="https://themefisher.com/free-bootstrap-templates">Bootstrap Templates Store</a>
 And if you want FREE HTML5 Templates then please visit our listing content <a href="https://themefisher.com/best-free-html5-templates-2016/">HTML5 Templates</a>
 <a href="https://themefisher.com">Website</a>
