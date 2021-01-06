@@ -1,0 +1,52 @@
+@@include('header.htm')
+@@include('blocks/navigation.htm')
+
+<section class="section">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-5 mb-4 mb-md-0">
+
+        <div class="product-image-slider">
+
+          <div data-image="images/showcase/showcase-1.png">
+            <img class="img-fluid w-100" src="images/showcase/showcase-1.png" alt="product-image">
+          </div>
+
+          <div data-image="images/showcase/showcase-2.png">
+            <img class="img-fluid w-100" src="images/showcase/showcase-2.png" alt="product-image">
+          </div>
+
+          <div data-image="images/showcase/showcase-3.png">
+            <img class="img-fluid w-100" src="images/showcase/showcase-3.png" alt="product-image">
+          </div>
+
+          <div data-image="images/showcase/showcase-4.png">
+            <img class="img-fluid w-100" src="images/showcase/showcase-4.png" alt="product-image">
+          </div>
+
+        </div>
+      </div>
+      <div class="col-lg-6 col-md-7 offset-lg-1">
+        <h1 class="mb-4">Apple Watch</h1>
+        <p><strong>Colors: </strong>Black, White, Gray</p>
+        <p><strong>Sizes: </strong>Small, Medium, Large</p>
+        <p class="price py-4">$25.00
+          <s class="price">$30.00</s>
+        </p>
+        <button class="snipcart-add-item btn btn-main mb-5" data-item-id="apple-watch__25.00"
+          data-item-name="Apple Watch" data-item-image="images/showcase/showcase-1.png" data-item-price="25.00"
+          data-item-url="products/product-1/" data-item-custom1-name="Choose Color"
+          data-item-custom1-options="Black|White|Gray" data-item-custom2-name="Choose Size"
+          data-item-custom2-options="Small|Medium|Large">Add to Cart
+        </button>
+        <div class="content">
+          <p>Apple Watch is a line of smartwatches produced by Apple Inc. It incorporates fitness tracking and
+            health-oriented capabilities with integration with iOS and other Apple products and services.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+@@include('footer.htm')
+@@include('blocks/footer.htm')
