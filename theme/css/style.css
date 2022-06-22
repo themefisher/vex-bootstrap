@@ -5,21 +5,6 @@
  * GITHUB: https://github.com/themefisher/
  */
 
-/*
-THEME: Vex - Product Landing Page Boostarp Template
-VERSION: 1.0.0
-AUTHOR: Themefisher
-
-HOMEPAGE: https://themefisher.com/products/vex-bootstrap4-product-landing-page-website-template/
-DEMO: https://demo.themefisher.com/vex/
-GITHUB: https://github.com/themefisher/Vex-Product-Landing-Page-Boostarp-Template/
-
-HUGO version: https://gethugothemes.com/products/vex-hugo-theme/
-
-WEBSITE: https://themefisher.com
-TWITTER: https://twitter.com/themefisher
-FACEBOOK: https://www.facebook.com/themefisher
-*/
 /*--
     Common Css
 --*/
@@ -562,9 +547,6 @@ s.price {
 .form-control::-moz-placeholder {
   font-size: 80%;
 }
-.form-control:-ms-input-placeholder {
-  font-size: 80%;
-}
 .form-control::placeholder {
   font-size: 80%;
 }
@@ -630,7 +612,8 @@ textarea.form-control {
 .content h6 {
   margin-bottom: 10px;
 }
-.content ol, .content ul {
+.content ol,
+.content ul {
   padding-left: 10px;
 }
 .content table {
